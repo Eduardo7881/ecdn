@@ -12,3 +12,6 @@ You can base with this url and using the cdn's structure
 `https://raw.githubusercontent.com/Eduardo7881/ecdn/refs/heads/main/packages/libraries/<pkg_name>-<pkg_ver>/<pkg_name>-<pkg_ver>.*min*.js`
 <br><br>
 Or you can explore the `packages/libraries` folder. i don't recommend when there are like over 300+ libraries!
+
+# Please don't fork!
+This is a CDN and please don't fork this repo! there is no reason to do that!
