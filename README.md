@@ -5,7 +5,7 @@ A cdn to host my projects and libraries.
 - UtilJS (Obsolete, use JSMat for math operations)
 - UtilHTML (WIP, not released yet!)
 - VKeyboard v1.0.0 & v1.0.2 (Virtual Keyboard for Devices that leak Keyboard Support)
-- JSMat v2.2.1 (A Advanced JavaScript Library to do Advanced Math Operations)
+- JSMat v2.2.1 (A Advanced JavaScript Library to do Advanced Math Operations) (Supports Node.JS & HTML Applications)
 - C8.(js) v2.0.0 (Not really a library. just an chip-8 emulator, but can be used as a 'library')
 
 # TODO: Under Construction!
