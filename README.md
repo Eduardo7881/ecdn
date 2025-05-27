@@ -1,11 +1,17 @@
-# Ecdn
+# eCDN
 A cdn to host my projects and libraries.
+
+# Libraries:
+- UtilJS (Obsolete, use JSMat for math operations)
+- UtilHTML (WIP, not released yet!)
+- VKeyboard v1.0.0 & v1.0.2 (Virtual Keyboard for Devices that leak Keyboard Support)
+- JSMat v2.2.1 (A Advanced JavaScript Library to do Advanced Math Operations)
+- C8.(js) v2.0.0 (Not really a library. just an chip-8 emulator, but can be used as a 'library')
 
 # TODO: Under Construction!
 
 # Structure
-The Main CDN Folder is `packages/` (holds almost everything)<br>
-The libraries structure is like this: `packages/libraries/<lib_name>-<lib_version>/<lib_name>-<lib_version>.*min*.js`
+The Main CDN Folder is `packages/` (holds *almost* everything)<br>
 
 # Example to load a `.min.js` library
 You can base with this url and using the cdn's structure
@@ -14,4 +20,10 @@ You can base with this url and using the cdn's structure
 Or you can explore the `packages/libraries` folder. i don't recommend when there are like over 300+ libraries!
 
 # Please don't fork!
-This is a CDN and please don't fork this repo! there is no reason to do that!
+This is a **CDN** and please don't fork this repo! there is no reason to do that!
+
+# Pull Requests
+I don't accept pull requests **THAT** changes the CDN structure.
+
+
+Please send pull requests on the **PROJECT'S** repo. (if it exists)
